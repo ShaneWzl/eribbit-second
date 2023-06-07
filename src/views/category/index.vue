@@ -1,12 +1,12 @@
 <template>
-<!-- 一级路由入口 -->
-  <router-view/>
+  <div>
+      我是topcategory
+  </div>
 </template>
 
 <script>
-
 export default {
-
+  name: 'TOPCATEGORY'
 }
 </script>
 

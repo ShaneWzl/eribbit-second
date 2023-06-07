@@ -1,12 +1,10 @@
 <template>
-<!-- 一级路由入口 -->
-  <router-view/>
+  <div>我是subCategory</div>
 </template>
 
 <script>
-
 export default {
-
+  name: 'SUBCATEGORY'
 }
 </script>
 
